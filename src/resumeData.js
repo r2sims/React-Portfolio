@@ -3,6 +3,8 @@ let resumeData = {
     "name": "Rodrick Sims",
     "role": "Full STack Web Developer",
     "linkedinId":"63078216",
+    "email":"r2sims@yahoo.com",
+    "phone":"7048903747",
 
     "socialLinks":[
         {
@@ -49,6 +51,7 @@ let resumeData = {
       {
         "name":"project1",
         "description":"NBA Player Search",
+        "url":"https://r2sims.github.io"
         
       },
       {
